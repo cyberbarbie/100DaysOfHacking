@@ -10,3 +10,8 @@ I also did some light review on Security+, specifically on the CIA triad and way
 
 ## Day 2 (01.02.23):
 Day 2! I started off by reviewing the SDLC, the different phases that are involved in the software development process from planning the design requirements to continuous integration and continous delivery. I then refined my notes on virtualization and set up an SSL certificate on AWS for my personal site, taeluralexis.com. I have little to no knowledge of AWS so I'm looking forward to hosting some projects on it! I also automated the process of setting up VMs using Vagrant. I'll most likely end the night with some more studying on the Security+.  
+
+## Day 3 (01.02.23):
+Day 3...I reviewed alot of networking basics such as network devices, how OSI model and TCP/IP work, and how encapsulation and de-encapsulation work. I also finally learned a bit about Ethernet standards. I compiled all of my notes into a GitHub repository that I'll be actively maintaining and updating. I'll keep adding to it as I find more of my notes. 
+
+That's all for today! Goodnight lol 
