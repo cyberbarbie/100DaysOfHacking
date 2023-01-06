@@ -14,14 +14,5 @@ Day 3 (01.03.23): Day 3...I reviewed alot of networking basics such as network d
 
 Day 4 (01.04.23): I did a hands-on workshop on CrowdStrike, an endpoint security management tool that utilizes threat intelligence and AI to track APTs, automate the process of real-time response to threats and get a graphical view of your threat landscape in your organization.
 
-Day 5 (01.05.23): Learned how to use GoPhish which is an open source phishing framework and launched a phishing attack. Here are the steps:
+Day 5 (01.05.23): Learned how to use GoPhish which is an open source phishing framework and launched a phishing attack. Later on I created and deployed a Jekyll blog and created a CI/CD pipeline with GitHub Actions. I'm so happy. One of my biggest goals was to relaunch my website and create more content! I'm migrating my old blog posts to the new site now and will update them. I'm also in the process of writing a blog post on how to create a CI/CD pipeline. I have so much excitement and optimism for the new year. This was a beautiful day! 
 
-1. Create a sending profile containing the connection details required to send your phishing emails (ie SMTP server you have access to; contains server name, email address and host)
-
-2. Set up a landing page spoofing a legitimate site - copy and paste the HTML by navigating to the landing pages link -> create new page -> press Source to enter HTML code _> click source again to view 
-
-3. Create an email template that displays the design and contain of the email you're sending to and contain a link to the spoofed landing page to capture the victim's password and username; ie New Message Received for subject; set a legitimate link text but set to {{.URL}} which will get sent to the spoofed domain 
-
-4. Store the email addresses of intended targets via Users & Groups
-
-5. Navigate to Campaigns to set up a new campaign (ie Name: Campaign one Email template: Email 1 Landing page: ACME Login URL: http://10.10.37.179 , sending profile: Local Server, Groups: Targets and then launch campaign
