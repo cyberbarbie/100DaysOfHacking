@@ -1,6 +1,6 @@
 100DaysOfCyberSecurity
 
-**Day 1 (01.01.23):** Happy new year! Today on TryHackMe I continued on the SOC analyst path and reviewed what I learned last week regarding the basics of threat modeling and network intrusion models.
+**Day 1 (01.01.23):** Happy new year! Today on TryHackMe I reviewed what I learned last week regarding the basics of threat modeling and network intrusion models.
 
 I learned about MITRE and how it is a knowledge base that tracks Advanced Persistent Threats (APTs) and their tactics, techniques, and procedures. This helps understand how attacks occur which helps both mitigate and prevent attacks occuring in your environment.
 
