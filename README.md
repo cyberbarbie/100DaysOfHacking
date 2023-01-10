@@ -22,9 +22,17 @@ Inspired by [#100DaysOfCode](https://github.com/kallaway/100-days-of-code)
 
 ## Resources 
 [TryHackMe](https://tryhackme.com)
+
 [The Cyber Mentor](https://academy.tcm-sec.com) 
+
 [Hacking APIs by No Starch](https://nostarch.com/hacking-apis)
+
 [Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities](https://nostarch.com/bug-bounty-bootcamp)
+
+## Follow My Blog! 💌
+I publish blog posts on common web security vulnerabilities and the latest cyber threats, THM/HTB writeups, coding, and helping people break into tech from non-traditional backgrounds. Subscribe to stay updated!  
+
+Check out my post on how I transitioned from customer service to front-end developer [here](https://www.taeluralexis.com/jekyll/update/2019/12/16/how-i-landed-my-first-web-developer-role.html)
 
 ## If you've decided to join:
 
