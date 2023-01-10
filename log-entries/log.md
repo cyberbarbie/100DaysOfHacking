@@ -32,7 +32,7 @@ Today is a light day and I'm taking the weekend off but today I completed the in
 
 ### Day 6 January 9, 2023
 
-What a great start to the week! I started the Jr pentester path on TryHackMe and reviewed concepts I've already learned as a front end developer such as the basic components that typically make up a web page and how HTTP works. I also spent today talking to a cool new friend at a coffeeshop about her transition into pentesting and she gave such encouraging feedback!! Then later at night I chugged through the practical ethical hacking course where I set up Kali Linux and halfway finished the Linux section. 
+What a great start to the week! I started the Jr pentester path on TryHackMe and reviewed concepts I've already learned as a front end developer such as the basic components that typically make up a web page and how HTTP works. I also performed a directory/file enumeration using Gobuster, an enumeration tool written in Golang. also spent today talking to a cool new friend at a coffeeshop about her transition into pentesting and she gave such encouraging feedback!! Then later at night I chugged through the practical ethical hacking course where I set up Kali Linux and halfway finished the Linux section. 
 
 ### Day 7 January 10, 2023
 
