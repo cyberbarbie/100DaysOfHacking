@@ -1,4 +1,4 @@
-100DaysOfCyberSecurity
+# 100DaysOfCyberSecurity
 
 **Day 1 (01.01.23):** Happy new year! Today on TryHackMe I reviewed what I learned last week regarding the basics of threat modeling and network intrusion models.
 
