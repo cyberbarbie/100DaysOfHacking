@@ -8,13 +8,23 @@ Inspired by [#100DaysOfCode](https://github.com/kallaway/100-days-of-code)
 
 ## Goals for Q1
 
-- Build CI/CD Pipeline (Done with GitHub Actions)
+- Build a secure CI/CD Pipeline (Done with GitHub Actions)
 
 - Publish 2 blog posts a month 
 
 - Complete Jr Pentester path on TryHackMe 
 
+- Pass Security+
+
 - Finish Practical Ethical Hacking course by The Cyber Mentor 
+
+- Become more knowledge on cloud services for a platform as well as implementing security best practices
+
+## Resources 
+[TryHackMe](https://tryhackme.com)
+[The Cyber Mentor](https://academy.tcm-sec.com) 
+[Hacking APIs by No Starch](https://nostarch.com/hacking-apis)
+[Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities](https://nostarch.com/bug-bounty-bootcamp)
 
 ## If you've decided to join:
 
