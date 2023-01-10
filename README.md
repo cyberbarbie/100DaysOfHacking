@@ -3,7 +3,7 @@ Inspired by [#100DaysOfCode](https://github.com/kallaway/100-days-of-code)
 
 ## Contents
 
-* [Log - click here to see my progress](log/log-entries.md)
+* [Log - click here to see my progress](log-entries/log.md)
 * [Resources - How I'm Learning](#resources)
 
 ## Goals for Q1
