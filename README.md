@@ -3,7 +3,6 @@ Inspired by [#100DaysOfCode](https://github.com/kallaway/100-days-of-code)
 
 ## Contents
 
-* [Rules](rules.md)
 * [Log - click here to see my progress](log-entries.md)
 * [Resources](resources.md)
 
