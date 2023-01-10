@@ -3,8 +3,8 @@ Inspired by [#100DaysOfCode](https://github.com/kallaway/100-days-of-code)
 
 ## Contents
 
-* [Log - click here to see my progress](log-entries.md)
-* [Resources](resources.md)
+* [Log - click here to see my progress](log/log-entries.md)
+* [Resources - How I'm Learning](#resources)
 
 ## Goals for Q1
 
@@ -20,7 +20,7 @@ Inspired by [#100DaysOfCode](https://github.com/kallaway/100-days-of-code)
 
 - Become more knowledge on cloud services for a platform as well as implementing security best practices
 
-## Resources 
+# resources 
 [TryHackMe](https://tryhackme.com)
 
 [The Cyber Mentor](https://academy.tcm-sec.com) 
