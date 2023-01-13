@@ -43,3 +43,13 @@ I also learn about how to use browser dev tools to exploit and find additional i
 I then learned about the different ways to discover key pages on a site that may provide potential attack vectors such as Sitemap.xml which details files that are permitted to be shown in search engine results, robot.txt which is a document that displays pages that are not allowed to be shown in search results or specific search engins that are blocked as well as favicon.ico which can provide an indication of what framework was used to build your target application. There are other ways to find out that exact information such as using browser extensions like Wappalyzer or viewing the source code to see what frameworks were loaded.
 
 There is so much I've learned as a front-end developer over the years that will definitely serve me well as I attempt to exploit web applications...legally :-) 
+
+### Day 8 January 11, 2023 
+
+I did a little file and directory enumeration with Ffuz and learned alot more about recon.
+
+### Day 9 January 12, 2023
+
+It was a beautiful day! I started the day by performing subdomain enumeration with tools like Ffuz before learning SQL basics. Then I performed an SQL injection. Learning SQL has actually been such a...logical, easy to understand process. I'm glad because I definitely want to build a full stack web app sometime this yeat. In my practical ethical hacking study group we continued on the practical ethical hacking course where we learned more Linux comamnds. Some new commands I acquired was ip r, which shows routes for your network, ip a for viewing your IP address and ip a for viewing the ARP table for mapping IP addresses to MAC addresses.
+
+### Day 
